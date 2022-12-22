@@ -1,0 +1,15 @@
+userName: randhirkarn_UIZSrq
+accessKey: 1GXAJNRPabpVGbCn1xRM
+platforms:
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 107.0
+  - os: Windows
+    osVersion: 10
+    browserName: Firefox
+    browserVersion: 102.0
+  - os: OS X
+    osVersion: Big Sur
+    browserName: Safari
+    browserVersion: 14.1

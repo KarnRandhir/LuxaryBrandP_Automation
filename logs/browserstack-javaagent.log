@@ -1,0 +1,6 @@
+15:23:27.119 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:23:27.123 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+15:23:27.125 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:55:01.190 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:55:01.195 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+15:55:01.196 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
