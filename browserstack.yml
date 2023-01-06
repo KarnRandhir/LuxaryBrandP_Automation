@@ -1,14 +1,16 @@
 platforms:
-  - os: Windows
-    osVersion: 11
-    browserName: Chrome
-    browserVersion: 107.0
-  - os: Windows
-    osVersion: 10
-    browserName: Firefox
-    browserVersion: 102.0
   - os: OS X
     osVersion: Big Sur
     browserName: Safari
     browserVersion: 14.1
-    
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: latest
+parallelsPerPlatform: 1
+browserstackLocal: false
+buildName: luxbp build-1
+projectName: LuxBP BrowserStack
+debug: true
+networkLogs: true
+consoleLogs: info
